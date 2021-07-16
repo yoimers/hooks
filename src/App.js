@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       aa
-      test2です
+      test2ですsssswww
     </div>
   );
 }
